@@ -1,0 +1,14 @@
+body {
+    background-color: #a7d3fb;
+    text-align: center;
+    font-family: 'Muli', sans-serif;
+}
+
+.container {
+    border-style: solid;
+    border-radius: 30px;
+    border-color: beige;
+    background-color: beige;
+    display: block;
+    margin: 20rem 15rem 0rem 15rem;
+}
